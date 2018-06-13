@@ -4,7 +4,7 @@ output:
     citation_package: natbib
     latex_engine: xelatex
     template: ./svm-r-markdown-templates/svm-latex-ms.tex
-title: "RNA-seq analysis without a refference genome"
+title: "De novo RNA-seq Analysis Method"
 #thanks: ""
 #abstract: "This document provides an introduction to R Markdown, argues for its..."
 #keywords: "pandoc, r markdown, knitr"
